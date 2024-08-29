@@ -25,9 +25,11 @@ Link download: [https://code.visualstudio.com/download](https://code.visualstudi
 
 <b>./node_modules/.bin/cypress open</b>
 
-<b> If the command does not work, type the following command. Then type the past command again.</b>
+<b> If the command does not work, type the following command:</b>
 
 <b>Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass</b>
+
+<b>Then type the past command again.</b>
 
 •	Then in your opened Cypress program choose E2E Testing and click form.
 
